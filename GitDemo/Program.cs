@@ -13,5 +13,15 @@ namespace GitDemo
             Console.WriteLine("HelloWorld1asd");
             Console.ReadKey();
         }
+
+        public int mblidh()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public int zbrit()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
